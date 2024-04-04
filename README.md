@@ -1,7 +1,7 @@
-@HighlishtS:
+🌟 HighlishtS:
 
 
--Added App Icon
+-Added App Icon 📱
 
 -Used Deezer free API
 
